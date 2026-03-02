@@ -104,3 +104,5 @@ If you want to train or use a local LLM for safety enforcement, you can explore:
   https://huggingface.co/meta-llama/Llama-Guard-4-12B
 
   
+-**Architecture flow for Guardrails available in the notebook**
+- **AI GUardrails maturity Model**
